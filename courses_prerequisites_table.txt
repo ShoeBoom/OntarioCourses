@@ -1,0 +1,541 @@
+ATC1O       None
+ATC2O       None
+ATC3M       Grade 9 or 10 Dance, Open
+ATC3O       None
+ATC4M       Grade 11 Dance, University/College
+ATC4E       Grade 11 Dance, Open
+ADA1O       None
+ADA2O       None
+ADA3M       Grade 9 or 10 Drama, Open
+ADA3O       None
+ADA4M       Grade 11 Drama, University/College
+ADA4E       Grade 11 Drama, Open
+ALC1O/2O   None
+AEA3O/4O   Any Grade 9 or 10 arts course
+
+
+ASM2O       None
+ASM3M       Grade 10 Media Arts, Open
+ASM3O       None
+ASM4M       Grade 11 Media Arts, University/College
+ASM4E       Grade 11 Media Arts, Open
+AMU1O       None
+AMU2O       None
+AMU3M       Grade 9 or 10 Music, Open
+AMU3O       None
+AMU4M       Grade 11 Music, University/College
+AMU4E       Grade 11 Music, Open
+AVI1O       None
+AVI2O       None
+AVI3M       Grade 9 or 10 Visual Arts, Open
+AVI3O       None
+AVI4M       Grade 11 Visual Arts, University/College
+AVI4E       Grade 11 Visual Arts, Open
+BTT1O       None
+
+
+
+BBI1O       None
+
+BTT2O       None
+
+
+
+BBI2O       None
+
+BAF3M       None
+
+
+BAI3E       None
+
+BAT4M       Financial Accounting Fundamentals, Grade 11, University/College
+            
+
+BAN4E       Accounting Essentials, Grade 11, Workplace
+            
+BDI3C       None
+
+BDP3O       None
+
+
+BDV4C       None
+
+
+
+BTA3O       None
+
+
+
+
+BTX4C       Information and Communication Technology: The Digital Environment, Grade 11, Open
+            
+            
+
+
+BTX4E       Information and Communication Technology: The Digital Environment, Grade 11, Open
+            
+            
+
+BBB4M       None
+
+
+BBB4E       None
+
+
+BMI3C       None
+
+BMX3E       None
+
+BOH4M       None
+
+
+
+BOG4E       None
+
+
+
+CGC1D        None
+
+
+CGC1P        None
+
+
+CGD3M         Grade 9 Issues in Canadian Geography, Academic or Applied
+            
+CGF3M         Grade 9 Issues in Canadian Geography, Academic or Applied
+              
+
+
+ CGG3O        Grade 9 Issues in Canadian
+             Geography, Academic or Applied
+
+
+CGT3O       Grade 9 Issues in Canadian
+            Geography, Academic or Applied
+
+CGW4U       Any university or university/college
+            preparation course in Canadian and
+            world studies, English, or social
+            sciences and humanities
+CGW4C       Grade 9 Issues in Canadian
+            Geography, Academic or Applied
+
+CGU4M       Any university, university/college,
+            or college preparation course in
+            Canadian and world studies, English,
+            or social sciences and humanities
+
+CGO4M       Any university, university/college, or
+            college preparation course in
+            Canadian and world studies, English,
+            or social sciences and humanities
+CGR4M       Any university, university/college, or
+            college preparation course in
+            Canadian and world studies, English,
+            or social sciences and humanities
+CGR4E       Grade 9 Issues in Canadian
+            Geography, Academic or Applied
+
+CHC2D       None
+CHC2P       None
+CHE3O       Grade 10 Canadian History since
+            World War I, Academic or Applied,
+            or the locally developed compulsory
+            credit (LDCC) ) course in Canadian
+            history
+CHA3U       Grade 10 Canadian History since
+            World War I, Academic or Applied
+CHW3M       Grade 10 Canadian History since
+            World War I, Academic or Applied
+CHT3O       Grade 10 Canadian History since
+            World War I, Academic or Applied,
+            or the locally developed compulsory
+            credit (LDCC) course in Canadian
+            history
+CHI4U       Any university or university/college
+            preparation course in Canadian and
+            world studies, English, or social
+            sciences and humanities
+CHY4U       Any university or university/college
+            preparation course in Canadian and
+            world studies, English, or social
+            sciences and humanities
+CHY4C       Any university, university/college, or
+            college preparation course in
+            Canadian and world studies, English,
+            or social sciences and humanities
+CHM4E       Grade 10 Canadian History since
+            World War I, Academic or Applied,
+            or the locally developed compulsory
+            credit (LDCC) course in Canadian
+            history
+CLU3M       Grade 10 Canadian History since
+            World War I, Academic or Applied
+CLU3E       Grade 10 Canadian History since
+            World War I, Academic or Applied,
+            or the locally developed compulsory
+            credit (LDCC) course in Canadian
+            history
+CLN4U       Any university or university/college
+            preparation course in Canadian and
+            world studies, English, or social
+            sciences and humanities
+CLN4C       Grade 10 Civics and Citizenship,
+            Open
+CHV2O       None
+
+CPC3O       Grade 10 Civics and Citizenship,
+            Open
+CPW4U       Any university or university/ college
+            preparation course in Canadian and
+            world studies, English, or social
+            sciences and humanities
+ICS2O         None
+
+
+ICS3U         None
+
+
+ICS3C         None
+
+
+ICS4U         Introduction to Computer Science,
+              Grade 11, University Preparation
+ICS4C         Introduction to Computer
+              Programming, Grade 11, College Preparation
+ENG1D           None
+ENG1P           None
+ENG2D           Grade 9 English, Academic or
+             Applied
+ENG2P           Grade 9 English, Academic or
+             Applied
+ELS2O           Grade 9 English, Academic or
+               Applied, or a Grade 9 English LDCC
+             (locally developed compulsory credit)
+             course
+ENG3U           Grade 10 English, Academic
+ENG3C           Grade 10 English, Applied
+ENG3E           Grade 10 English, Applied
+C3M             Grade 10 English, Academic or
+             Applied
+EMS3O           Grade 10 English, Academic or
+             Applied
+EPS3O           Grade 10 English, Academic or
+               Applied
+ENG4U           Grade 11 English, University
+ENG4C           Grade 11 English, College
+ENG4E           Grade 11 English, Workplace
+ETS4U           Grade 11 English, University
+EWC4U           Grade 11 English, University
+ETS4C           Grade 11 English, College
+EWC4C           Grade 11 English, College
+EBT4O           Grade 11 English, University,
+               College, or Workplace
+
+OLC3O/          For eligibility requirements, see note
+OLC4O           below.
+
+NAC1O          None
+
+
+NAC2O          None
+
+NBE3U          Grade 10 English, Academic
+
+
+
+
+NBE3C          Grade 10 English, Academic or
+             Applied
+
+
+
+NBE3E          Grade 10 English, Academic or
+             Applied or the Grade 10 locally
+             developed compulsory credit
+             (LDCC) course in English
+
+NDA3M          Grade 10 First Nations, Métis,
+             and Inuit in Canada, Open, or
+             Grade 10 Canadian History since
+             World War I, Academic or Applied
+NBV3C          Grade 10 First Nations, Métis
+             and Inuit in Canada, Open, or
+             Grade 10 Canadian History since
+             World War I, Academic or Applied
+
+NBV3E          Grade 10 First Nations, Métis
+             and Inuit in Canada, Open, or
+             Grade 10 Canadian History since
+             World War I, Academic or Applied,
+             or the Grade 10 locally developed
+            compulsory credit (LDCC) course
+            in history
+NDW4M        Any Grade 11 University,
+           University/College, or College
+           Preparation course in First Nations,
+           Métis, and Inuit studies, Canadian
+            and world studies, or social
+            sciences and humanities
+NDG4M        Any Grade 11 University,
+           University/College, or College
+           Preparation course in First Nations,
+           Métis, and Inuit studies, Canadian
+            and world studies, or social
+            sciences and humanities
+FSF1D       Minimum of 600 hours of French
+            instruction, or equivalent
+FSF1P       Minimum of 600 hours of French
+            instruction, or equivalent
+FSF1O       None
+FEF1D       Minimum of 1260 hours of instruction
+            in French, or equivalent
+FIF1D       Minimum of 3800 hours of instruction
+            in French, or equivalent
+FIF1P       Minimum of 3800 hours of French
+            instruction, or equivalent
+FSF2D       Grade 9 Core French, Academic or
+            Applied
+FSF2P       Grade 9 Core French, Academic or
+            Applied
+FSF2O       Grade 9 Core French, Open
+FEF2D       Grade 9 Extended French, Academic
+FIF2D       Grade 9 French Immersion,
+            Academic or Applied
+FIF2P       Grade 9 French Immersion,
+            Academic or Applied
+FSF3U       Grade 10 Core French, Academic
+FSF3O       Grade 10 Core French, Academic,
+            Applied, or Open
+FEF3U       Grade 10 Extended French,
+            Academic
+FIF3U       Grade 10 French Immersion,
+            Academic
+FIF3O       Grade 10 French Immersion,
+            Academic or Applied
+FSF4U       Grade 11 Core French, University
+FSF4O       Grade 11 Core French, University or
+            Open
+FEF4U       Grade 11 Extended French,
+            University
+FIF4U       Grade 11 French Immersion,
+            University
+FIF4O       Grade 11 French Immersion,
+            University or Open
+GLS1O       None
+
+
+GLE1O       Recommendation of principal
+
+
+GLC2O       None
+GLE2O       Recommendation of principal
+
+
+GLD2O       None
+
+GWL3O       None
+GPP3O       None
+
+GLE3O       Recommendation of principal
+
+
+
+GLS4O       None
+
+
+
+GLE4O       Recommendation of principal
+
+
+
+GLN4O       None
+PPL1O          None
+
+PPL2O          None
+
+PPL3O          None
+
+PPZ3C          None
+PPL4O          None
+
+PSK4U          Any Grade 11 university or
+            university/college preparation course
+             in science, or any Grade 11 or 12
+             course in health and physical
+             education
+PLF4M          Any health and physical education
+            course
+
+IDC3O       None
+
+IDP3O       The prerequisite for each of the
+            courses in the package
+IDC4U       Any university or university/ college
+            preparation course
+IDP4U       The prerequisite for each of the
+            courses in the package
+IDC4O       None
+
+IDP4O       The prerequisite for each of the
+            courses in the package
+ MPM1D       None
+
+ MFM1P       None
+
+ MPM1H       Foundations of Mathematics, Grade
+             9, Applied (MFM1P)
+ MPM2D       Grade 9 Mathematics, Academic or
+             Mathematics Transfer
+ MFM2P       Grade 9 Mathematics, Academic or
+             Applied
+ MCR3U       Principles of Mathematics, Grade 10,
+             Academic
+ MCF3M       Principles of Mathematics, Grade 10,
+             Academic, or Foundations of
+             Mathematics, Grade 10, Applied
+ MBF3C       Foundations of Mathematics, Grade
+             10, Applied
+
+ MEL3E       Principles of Mathematics, Grade 9,
+             Academic, or Foundations of
+             Mathematics, Grade 9, Applied, or a
+             Grade 10 Mathematics LDCC (locally
+             developed compulsory credit) course
+ MHF4U       Functions, Grade 11, University
+             Preparation, or Mathematics for
+             College Technology, Grade 12,
+             College Preparation
+ MCV4U       Note: Advanced Functions, Grade 12,
+             University Preparation, must be taken
+             prior to or concurrently with Calculus
+             and Vectors.
+ MDM4U       Functions, Grade 11, University
+             Preparation, or Functions
+             and Applications, Grade 11,
+             University/College Preparation
+ MCT4C       Functions and Applications, Grade
+             11, University/College Preparation,
+             or Functions, Grade 11, University
+             Preparation
+MAP4C      Foundations for College Mathematics,
+           Grade 11, College Preparation, or
+           Functions and Applications, Grade 11,
+           University/College Preparation
+MEL4E       Mathematics for Work and Everyday
+            Life, Grade 11, Workplace
+            Preparation
+SNC1D       None
+SNC1P       None
+SNC2D       Grade 9 Science, Academic or
+               Applied
+SNC2P       Grade 9 Science, Academic or
+               Applied
+SNC4M       Grade 10 Science, Academic, or any
+               Grade 11 university,
+               university/college, or college
+               preparation course in science
+SNC4E       Grade 10 Science, Applied, or a
+               Grade 10 locally developed
+               compulsory credit (LDCC) course in
+               science
+SBI3U       Grade 10 Science, Academic
+SBI3C       Grade 10 Science, Academic or
+               Applied
+SBI4U       Grade 11 Biology, University
+               Preparation
+
+SCH3U       Grade 10 Science, Academic
+SCH4U       Grade 11 Chemistry, University
+               Preparation
+SCH4C       Grade 10 Science, Academic or
+            Applied
+SES4U       Grade 10 Science, Academic
+
+SVN3M       Grade 10 Science, Academic or
+            Applied
+SVN3E       Grade 9 Science, Academic or
+            Applied, or a Grade 9 or 10 locally
+            developed compulsory credit (LDCC)
+            course in science
+SPH3U       Grade 10 Science, Academic
+SPH4U       Grade 11 Physics, University
+            Preparation
+SPH4C       Grade 10 Science, Academic or
+            Applied
+HSG3M       None
+HSE3E       None
+
+
+HSE4M       Any university, college, or
+            university/college preparation course
+            in social sciences and humanities,
+            English, or Canadian and world
+            studies
+HSC4M       Any university, college, or
+            university/college preparation course
+            in social sciences and humanities,
+            English, or Canadian and world
+            studies
+HIF1O       None
+
+HFN1O       None
+
+HIF2O       None
+
+HFN2O       None
+
+HNL2O       None
+HNC3C       None
+
+HLS3O       None
+
+HFC3M       None
+HFC3E       None
+HHD3O       None
+HPW3C       None
+HPC3O       None
+HNB4M       Any university, university/college, or
+            college preparation course in social
+            sciences and humanities, English, or
+            Canadian and world studies
+HFA4U       Any university or university/college
+            preparation course in social sciences
+            and humanities, English, or Canadian
+            and world studies
+HFA4C       Any university, university/college, or
+            college preparation course in social
+            sciences and humanities, English, or
+            Canadian and world studies
+HFL4E       None
+
+HHS4U       Any university or university/college
+            preparation course in social sciences
+            and humanities, English, or Canadian
+            and world studies
+HHS4C       Any university, university/college, or
+            college preparation course in social
+            sciences and humanities, English, or
+            Canadian and world studies
+HHG4M       Any university, university/college, or
+            college preparation course in social
+            sciences and humanities, English, or
+            Canadian and world studies
+HIP4O       None
+
+HPD4C       Any university, university/college, or
+            college preparation course in social
+            sciences and humanities, English, or
+            Canadian and world studies
+HSP3U       Grade 10 academic course in English
+            or academic history course (Canadian
+            and world studies)
+
+HSP3C       None
+
+
+
+HSB4U       Any university or university/college
+            preparation course in social sciences
+            and humanities, English, or Canadian
+            and world studies
