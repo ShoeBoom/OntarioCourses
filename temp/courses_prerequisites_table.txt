@@ -106,7 +106,7 @@ CGF3M         Grade 9 Issues in Canadian Geography, Academic or Applied
               
 
 
- CGG3O        Grade 9 Issues in Canadian
+CGG3O        Grade 9 Issues in Canadian
              Geography, Academic or Applied
 
 
@@ -379,45 +379,45 @@ IDC4O       None
 
 IDP4O       The prerequisite for each of the
             courses in the package
- MPM1D       None
+MPM1D       None
 
- MFM1P       None
+MFM1P       None
 
- MPM1H       Foundations of Mathematics, Grade
-             9, Applied (MFM1P)
- MPM2D       Grade 9 Mathematics, Academic or
-             Mathematics Transfer
- MFM2P       Grade 9 Mathematics, Academic or
-             Applied
- MCR3U       Principles of Mathematics, Grade 10,
-             Academic
- MCF3M       Principles of Mathematics, Grade 10,
-             Academic, or Foundations of
-             Mathematics, Grade 10, Applied
- MBF3C       Foundations of Mathematics, Grade
-             10, Applied
+MPM1H       Foundations of Mathematics, Grade
+            9, Applied (MFM1P)
+MPM2D       Grade 9 Mathematics, Academic or
+            Mathematics Transfer
+MFM2P       Grade 9 Mathematics, Academic or
+            Applied
+MCR3U       Principles of Mathematics, Grade 10,
+            Academic
+MCF3M       Principles of Mathematics, Grade 10,
+            Academic, or Foundations of
+            Mathematics, Grade 10, Applied
+MBF3C       Foundations of Mathematics, Grade
+            10, Applied
 
- MEL3E       Principles of Mathematics, Grade 9,
-             Academic, or Foundations of
-             Mathematics, Grade 9, Applied, or a
-             Grade 10 Mathematics LDCC (locally
-             developed compulsory credit) course
- MHF4U       Functions, Grade 11, University
-             Preparation, or Mathematics for
-             College Technology, Grade 12,
-             College Preparation
- MCV4U       Note: Advanced Functions, Grade 12,
-             University Preparation, must be taken
-             prior to or concurrently with Calculus
-             and Vectors.
- MDM4U       Functions, Grade 11, University
-             Preparation, or Functions
-             and Applications, Grade 11,
-             University/College Preparation
- MCT4C       Functions and Applications, Grade
-             11, University/College Preparation,
-             or Functions, Grade 11, University
-             Preparation
+MEL3E       Principles of Mathematics, Grade 9,
+            Academic, or Foundations of
+            Mathematics, Grade 9, Applied, or a
+            Grade 10 Mathematics LDCC (locally
+            developed compulsory credit) course
+MHF4U       Functions, Grade 11, University
+            Preparation, or Mathematics for
+            College Technology, Grade 12,
+            College Preparation
+MCV4U       Note: Advanced Functions, Grade 12,
+            University Preparation, must be taken
+            prior to or concurrently with Calculus
+            and Vectors.
+MDM4U       Functions, Grade 11, University
+            Preparation, or Functions
+            and Applications, Grade 11,
+            University/College Preparation
+MCT4C       Functions and Applications, Grade
+            11, University/College Preparation,
+            or Functions, Grade 11, University
+            Preparation
 MAP4C      Foundations for College Mathematics,
            Grade 11, College Preparation, or
            Functions and Applications, Grade 11,
